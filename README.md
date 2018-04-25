@@ -18,11 +18,14 @@ May 3 - 6
 Max Planck Institute for Human Cognitive and Brain Sciences\
 Leipzig, Germany
 
-### list of potential projects
+### potential projects
 
 - Development of an integrated pipeline for correction of gradient nonlinearity, B0, motion and eddy currents artefacts in the CONENCTOM MRI. 
 - Using Machine Learning to classify (and correct) fat artefacts in MRI data.
 
+### educational sessions
+
+- Introduction to Python for Neuroscience
 
 ### schedule
 [preliminary](schedule.md)
