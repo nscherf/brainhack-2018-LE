@@ -28,6 +28,7 @@ Leipzig, Germany
 
 - Introduction to Python for Neuroscience
 - Introduction to Git/GitHub
+- Some Basic Bash
 
 ### schedule
 [preliminary](schedule.md)
