@@ -13,7 +13,7 @@ Our internal MPI-CBS event as part of [Brainhack global 2018](https://www.brainh
 - Nico Scherf
 
 ### date
-May 3 - 6
+May 3 - 5 (Thu - Sat)
 
 ### location
 Max Planck Institute for Human Cognitive and Brain Sciences\
