@@ -1,5 +1,5 @@
 ## Brainhack 2018 @ Leipzig
-![](./img/brainhack_header.png)
+![](./img/brainhack_header.png){:height="50%" width="50%"}
 
 Our internal MPI-CBS event as part of [Brainhack global 2018](https://www.brainhack.org/).
 
