@@ -15,9 +15,8 @@ Our internal MPI-CBS event as part of [Brainhack global 2018](https://www.brainh
 May 3 - 6
 
 ### location
-Max Planck Institute for Human Cognitive and Brain Sciences
-Stephanstrasse 1a
-D-04103 Leipzig, Germany
+Max Planck Institute for Human Cognitive and Brain Sciences\
+Leipzig, Germany
 
 ### schedule
 [preliminary](schedule.md)
