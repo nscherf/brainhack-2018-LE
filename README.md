@@ -26,6 +26,7 @@ Leipzig, Germany
 ### educational sessions
 
 - Introduction to Python for Neuroscience
+- Introduction to Git/GitHub
 
 ### schedule
 [preliminary](schedule.md)
