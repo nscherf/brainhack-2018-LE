@@ -7,6 +7,7 @@ Our internal MPI-CBS event as part of [Brainhack global 2018](https://www.brainh
 - Alfred Anwander
 - Seyma Bayrak
 - Ahmad Seif Kanaan
+- Michael Paquette
 - Kornelius Podranski
 - Daniel Rose
 - Nico Scherf
