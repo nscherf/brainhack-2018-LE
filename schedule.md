@@ -1,1 +1,27 @@
-tba 
+## schedule
+|       | Thursday, May 3                     | Friday, May 4                                                                                                | Saturday, May 5                                           |
+| ----- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
+| 10:00 |                                     | ignite talk 1: Deep Learning for Image Analysis (Nico Scherf, Konstantin Thierbach, and Kornelius Podranski) | ignite talk 2: Precision Medicine (Ahmad Seif Kanaan)     |
+|       |                                     | project work                                                                                                 | project work                                              |
+| 11:00 |                                     |                                                                                                              |                                                           |
+|       |                                     | lab tour TMS                                                                                                 |                                                           |
+| 12:00 |                                     |                                                                                                              |                                                           |
+|       |                                     | lunch break                                                                                                  | lunch break                                               |
+| 13:00 |                                     |                                                                                                  |                                              |
+|       |                                     | project work                                                                                                              | project work                                                    |
+| 14:00 |                                     | lab tour BCI                                                                                                 |                                                           |
+|       |                                     |                                                                                                              |                                                           |
+| 15:00 |                                     | educational session 1: Python                                                                                |                                                           |
+|       |                                     |                                                                                                              |                                                           |
+| 16:00 |                                     | project work                                                                                                 |                                                           |
+|       |                                     |                                                                                                              |                                                           |
+| 17:00 |                                     | educational session 2: Git                                                                                   |                                                           |
+|       |                                     |                                                                                                              |                                                           |
+| 18:00 | introduction                        | dinner break                                                                                                 | dinner break                                              |
+|       | presentation                        |                                                                                                  |                                                           |
+| 19:00 | presentation of project ideas       | project work                                                                                                              | project work                                                          |
+|       |                                     |                                                                                                              |                                                           |
+| 20:00 | self-organisation of project groups |                                                                                                              | presentation of project status, discussion of future work |
+|       |                                     |                                                                                                              | wrap up                                                   |
+| 21:00 | end                                 | end                                                                                                          | end                                                       |
+|       |                                     |                                                                                                              | social event: meet at Cafe Cantona                        |
