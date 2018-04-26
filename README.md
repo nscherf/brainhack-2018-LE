@@ -23,6 +23,7 @@ Leipzig, Germany
 
 - Development of an integrated pipeline for correction of gradient nonlinearity, B0, motion and eddy currents artefacts in the CONENCTOM MRI. 
 - Using Machine Learning to classify (and correct) fat artefacts in MRI data.
+- Porting more functionality from the CBS-Tools code base to Nighres.
 
 ### educational sessions
 
@@ -32,6 +33,7 @@ Leipzig, Germany
 
 ### schedule
 [preliminary](https://docs.google.com/spreadsheets/d/e/2PACX-1vT-t04MhYrbzLw7-Oh5ijwSo2STG_UNqxM63tzBbbqZl3SVj9R5IVE-pk73Ni6aAFU1xHlyPJyQ8Bow/pubhtml)
+
 
 ### social event
 Saturday 9:30pm @ Cafe Cantona
