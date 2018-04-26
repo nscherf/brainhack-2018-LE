@@ -31,4 +31,4 @@ Leipzig, Germany
 - Some Basic Bash
 
 ### schedule
-[preliminary](schedule.md)
+[preliminary](https://docs.google.com/spreadsheets/d/e/2PACX-1vT-t04MhYrbzLw7-Oh5ijwSo2STG_UNqxM63tzBbbqZl3SVj9R5IVE-pk73Ni6aAFU1xHlyPJyQ8Bow/pubhtml)
