@@ -7,6 +7,9 @@ Our internal MPI-CBS event as part of [Brainhack global 2018](https://www.brainh
 register your email [at Brainhack website](https://brainhack-slack-invite.herokuapp.com/)
 our channel will be: #bhg-2018-le
 
+### Hackpad for collaborative notes:
+[here](https://paper.dropbox.com/doc/Brainhack-Global-2018-MPI-CBS-aHVuA9VsFrqzJhAdJPqhY?_tk=share_copylink)
+
 ### organizers
 - Alfred Anwander
 - Seyma Bayrak
