@@ -43,4 +43,4 @@ Leipzig, Germany
 
 
 ### social event
-Saturday 9:30pm @ Cafe Cantona
+Saturday 8:30pm @ [Beyerhaus](http://www.beyerhaus.de/)
